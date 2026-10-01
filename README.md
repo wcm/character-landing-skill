@@ -93,3 +93,7 @@ The result is a plain static site: no build step and no framework. Deploy the `s
 - **Your images.** If you use someone else's artwork as the reference, get their permission or credit them before publishing. Photos of real people should be of you, or used with consent.
 - **Trademarked characters** (e.g. famous cartoon mascots) are usually refused by the image model. The skill suggests an original character with the same energy instead.
 - **Models used:** fal `nano-banana-pro` (stills and edits) and `kling-video/v3/pro/image-to-video` (pose-to-pose clips). Prices and availability are set by fal.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Images you generate with the skill are yours, subject to fal's terms and the rights in your reference image.
